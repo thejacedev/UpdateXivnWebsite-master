@@ -61,7 +61,21 @@ services:
       - /images/resource-pack-2.jpg
       - /images/resource-pack-3.jpg
       - /images/resource-pack-4.jpg
-
+  - icon: ⚙
+    title: Plugin Development
+    description: Minecraft plugin development tailored to your needs.
+    longDescription: >
+      Our resource pack development service offers tailored solutions for Minecraft servers
+      looking to create unique and immersive experiences. We specialize in creating high-quality
+      textures, custom models, and animations that bring your server's vision to life. Whether
+      you're looking to create a medieval fantasy world or a futuristic sci-fi environment,
+      our team of experienced artists and developers can make it happen.
+    images:
+      - /images/resource-pack-1.jpg
+      - /images/resource-pack-2.jpg
+      - /images/resource-pack-3.jpg
+      - /images/resource-pack-4.jpg
+      
 clients:
   - name: 
     logo: https://i.imgur.com/H3Iqhyw.png
@@ -69,6 +83,15 @@ clients:
   - name: 
     logo: https://i.imgur.com/NsvnyvF.png
     link: https://store.haycube.net/
+  - name: 
+    logo: https://i.imgur.com/78QRgDa.png
+    link: https://store.berrysmp.net/
+  - name: 
+    logo: https://i.imgur.com/qUlFpwS.png
+    link: https://siphonmc.com/
+  - name: 
+    logo: https://i.imgur.com/AlFheIE.png
+    link: https://shop.chickencraft.nl/    
   - name:
     logo: https://i.imgur.com/h7srW6h.png
     link: https://store.boldsmp.com/

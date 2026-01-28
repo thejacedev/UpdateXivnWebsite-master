@@ -508,10 +508,7 @@ export default function Home() {
           {/* Add this new div for the attribution */}
           <div className="text-center text-gray-400 text-sm mt-4">
             <AnimatedLink href="https://square.link/u/LmXVXEOd">Donations!</AnimatedLink>
-            <AnimatedLink href="http://mcheads.org/">MC Heads</AnimatedLink>
-            <AnimatedLink href="https://all-minecraft-servers.com/">All Minecraft Servers</AnimatedLink>
-            <p>Designed with ❤️ by Person98</p>
-            <p>&copy; 2024 Person98 LLC. All rights reserved.</p>
+            <p>&copy; 2024 Xivn LLC. All rights reserved.</p>
           </div>
         </motion.div>
       </motion.div>
