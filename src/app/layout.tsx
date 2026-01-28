@@ -15,8 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Xivn - Minecraft Plugin & Server Development",
-  description: "Hi, I’m Xivn, a Minecraft developer with a focus on custom items, plugin development, server configuration, and overall server management. I enjoy building systems that make servers feel unique and fun to play on."
-                "I’m a California native now living in Florida, happily married, and always excited to collaborate with new people. I now offer plugin development and additional services through my Discord, so if you’re working on a server or have an idea you’d like to bring to life, feel free to reach out. I’d love to chat and see what we can build together.",
+  description: "Hi, I’m Xivn, a Minecraft developer with a focus on custom items, plugin development, server configuration, and overall server management. I enjoy building systems that make servers feel unique and fun to play on. I’m a California native now living in Florida, happily married, and always excited to collaborate with new people. I now offer plugin development and additional services through my Discord, so if you’re working on a server or have an idea you’d like to bring to life, feel free to reach out. I’d love to chat and see what we can build together.",
   keywords: ["Minecraft", "plugin development", "server management", "custom gameplay", "performance optimization"],
   authors: [{ name: "Xivn" }],
   creator: "Xivn",
